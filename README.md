@@ -1,0 +1,161 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>John Cena: El Fin de una Era (2025-2026)</title>
+<style type="text/css">
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: #1a1a1a;
+color: #ffffff;
+margin: 0;
+padding: 0;
+}
+#container {
+width: 900px;
+margin: 0 auto;
+background-color: #262626;
+border: 2px solid #0055a4;
+}
+#header {
+background-color: #0055a4;
+color: #ffffff;
+padding: 20px;
+text-align: center;
+border-bottom: 5px solid #ef4135;
+}
+.section {
+padding: 20px;
+border-bottom: 1px solid #444;
+}
+h1 { margin: 0; font-size: 36px; text-transform: uppercase; }
+h2 { color: #ef4135; border-bottom: 2px solid #ef4135; padding-bottom: 5px; }
+h3 { color: #00a0e3; }
+
+.stats-table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 10px;
+background-color: #333;
+}
+.stats-table th, .stats-table td {
+border: 1px solid #555;
+padding: 10px;
+text-align: left;
+}
+.stats-table th {
+background-color: #0055a4;
+}
+
+.highlight {
+background-color: #444;
+padding: 15px;
+border-left: 5px solid #ef4135;
+margin: 10px 0;
+}
+
+.footer {
+text-align: center;
+padding: 20px;
+font-size: 12px;
+background-color: #111;
+color: #aaa;
+}
+
+.quote {
+font-style: italic;
+color: #ffcc00;
+font-size: 1.2em;
+text-align: center;
+display: block;
+margin: 20px 0;
+}
+</style>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<h1>JOHN CENA</h1>
+<p><strong>Hustle, Loyalty, Respect | El Retiro de una Leyenda</strong></p>
+</div>
+<div class="section">
+<h2>El Fin de una Era (Retiro 2025-2026)</h2>
+<p>John Cena cerr� oficialmente su cap�tulo como luchador activo a
+finales de 2025.</p>
+<ul>
+<li><strong>La Gira del Adi�s:</strong> Culmin� el 13 de diciembre de
+2025 en el Saturday Night Main Event.</li>
+<li><strong>R�cord Hist�rico:</strong> En WrestleMania 41, derrot� a
+Cody Rhodes convirti�ndose en <strong>17 veces Campe�n Mundial</strong>.</li>
+<li><strong>Grand Slam:</strong> Gan� el Campeonato Intercontinental
+en noviembre de 2025.</li>
+<li><strong>Presente 2026:</strong> Funge como embajador oficial de
+la WWE con un contrato de 5 a�os.</li>
+</ul>
+<span class="quote">"The Last Time is Now"</span> </div>
+<div class="section">
+<h2>&nbsp;Biograf�a y Primeros A�os</h2>
+<p><strong>Nombre Real:</strong> John Felix Anthony Cena Jr. (48 a�os
+en 2026).</p>
+<p>Antes
+de la fama, se gradu� en Fisiolog�a del Ejercicio y trabaj� como
+conductor de limusinas, llegando a dormir en su propio coche por falta
+de dinero.</p>
+</div>
+<div class="section">
+<h2>Datos Curiosos "Nivel Experto"</h2>
+<table class="stats-table">
+<thead> <tr>
+<th>Dato</th>
+<th>Detalle</th>
+</tr>
+</thead> <tbody>
+<tr>
+<td><strong>R�cord Guinness</strong></td>
+<td>M�s de 700 deseos cumplidos en Make-A-Wish hasta 2026.</td>
+</tr>
+<tr>
+<td><strong>Pol�glota</strong></td>
+<td>Habla Mandar�n fluido para el mercado asi�tico.</td>
+</tr>
+<tr>
+<td><strong>Acrofobia</strong></td>
+<td>Ir�nicamente, el hombre de las cuerdas teme a las alturas.</td>
+</tr>
+<tr>
+<td><strong>Escritor</strong></td>
+<td>Autor Bestseller de "Elbow Grease" y libros de motivaci�n.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section">
+<h2>Carrera en Hollywood 2026</h2>
+<p>Cena es ahora un actor de Clase A con proyectos masivos:</p>
+<div class="highlight">
+<ul>
+<li><strong>Peacemaker:</strong> Temporada 2 bajo la direcci�n de
+James Gunn.</li>
+<li><strong>Matchbox:</strong> Superproducci�n de acci�n programada
+para octubre de 2026.</li>
+<li><strong>Coyote vs. Acme:</strong> Estrenada finalmente con gran
+�xito cr�tico.</li>
+</ul>
+</div>
+</div>
+<div class="section">
+<h2>Estad�sticas de Leyenda (Cifras Finales)</h2>
+<ul>
+<li><strong>Luchas totales:</strong> M�s de 2,200 combates.</li>
+<li><strong>Campeonatos Mundiales:</strong> 17 (R�cord Hist�rico).</li>
+<li><strong>Victorias en PPV:</strong> 100 victorias alcanzadas en
+enero de 2026.</li>
+<li><strong>Royal Rumble:</strong> Ganador 2008 y 2013.</li>
+</ul>
+</div>
+<div class="footer">
+<p>� 2026 - Fan Site Tributo a John Cena | Creado para Kompozer 0.8b3</p>
+<p><em>"Never Give Up"</em></p>
+</div>
+</div>
+</body>
+</html>
